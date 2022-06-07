@@ -1,4 +1,4 @@
-# AGH Multivariate Statistics 
+# Multivariate Statistics 
 ###### This repository is not intended to be a `tutorial`, but can be used as a source of reference.
 This project is a part of a Multivariate Statistics (pl. "Statystyka wielowymiarowa") course on Computer Science major at the AGH Academy of Science and Technology.
 
